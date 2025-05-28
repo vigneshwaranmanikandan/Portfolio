@@ -12,6 +12,8 @@ import SlideInSection from './SlideInSection';
 import Resume from './Resume';
 import MoreAboutMe from './more-about-me'; 
 import ProjectCarousel from './ProjectCarousel';
+import './index.css'; // or './global.css'
+
 
 
 import './App.css';

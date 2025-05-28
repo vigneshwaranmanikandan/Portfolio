@@ -33,8 +33,8 @@ const images = [
   { src: achievement1, caption: 'Certificate: Software Development' },
   { src: achievement2, caption: 'Best Student Award' },
   { src: achievement3, caption: 'Certificate: Frontend Internship' },
-  { src: achievement4, caption: 'Certificate: Full Stack Developer' },
-  { src: achievement5, caption: 'Certificate: Content Writing' },
+  // { src: achievement4, caption: 'Certificate: Full Stack Developer' },
+  // { src: achievement5, caption: 'Certificate: Content Writing' },
   { src: achievement7, caption: 'Certificate: NPTEL IIOT 4.0' },
 ];
 

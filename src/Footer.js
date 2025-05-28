@@ -15,14 +15,14 @@ function Footer() {
           <p className="text-sm text-gray-400 mb-3">
             Crafted with <span className="text-yellow-400 animate-glow">❤️</span> using React & Tailwind CSS
           </p>
-          <p className="text-sm text-gray-400">
+          {/* <p className="text-sm text-gray-400">
             <a
               href="#"
               className="hover:text-white transform hover:scale-110 transition-all duration-300 hover:translate-y-1 hover:drop-shadow-glow"
             >
               Back to top ↑
             </a>
-          </p>
+          </p> */}
         </div>
       </div>
 

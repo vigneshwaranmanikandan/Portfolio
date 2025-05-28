@@ -16,8 +16,8 @@ import project9 from './images/project9.png';
 import achievement1 from './images/achievement1.png';
 import achievement2 from './images/achievement2.png';
 import achievement3 from './images/achievement3.png';
-import achievement4 from './images/achievement4.png';
-import achievement5 from './images/achievement5.png';
+// import achievement4 from './images/achievement4.png';
+// import achievement5 from './images/achievement5.png';
 import achievement7 from './images/achievement7.png';
 
 const images = [
